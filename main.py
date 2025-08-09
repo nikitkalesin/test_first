@@ -5,7 +5,7 @@
 
 
 def print_hi(name):
-    # Use a breakp1oint in the code line below to debug your script.
+    # Use a breakp12oint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
